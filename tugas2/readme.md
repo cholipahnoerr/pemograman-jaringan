@@ -1,5 +1,6 @@
 Mesin 1
-2. jalankan program `time_server.py`
+
+1. jalankan program `time_server.py`
 
 Mesin 2
 1. install telnet 
